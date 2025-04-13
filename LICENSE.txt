@@ -1,0 +1,11 @@
+KAELIT Interface Demo (c) 2025 KAELIT Project (https://kaelit.com)
+
+This demo repository is released for public viewing only.
+
+You are NOT permitted to:
+- use this code in commercial or production systems,
+- redistribute, modify, or repackage this content,
+- claim authorship or republish this material in any form.
+
+This repository is provided “as-is” for demonstration and partnership review purposes only.
+All rights reserved by the KAELIT Project.
