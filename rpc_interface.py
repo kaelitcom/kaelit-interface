@@ -5,7 +5,7 @@ This is a simplified demo of the KAELIT JSON-RPC interface.
 It does NOT include any core blockchain logic, consensus, or cryptographic implementation.
 
 IPFS Hash: QmXXXX... (KAELIT official publication proof)
-For full technical collaboration: https://kaelit.com/partnership
+For full technical collaboration: https://kaelit.com
 """
 
 import json
