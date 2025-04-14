@@ -1,3 +1,5 @@
+[📌 View the Initial Public Architecture Snapshot (v0.1)](https://github.com/kaelitcom/kaelit-research/releases/tag/v0.1)
+
 # kaelit-interface
 
 **Public demo of KAELIT's planned blockchain interface (JSON-RPC).**  
