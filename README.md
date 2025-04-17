@@ -8,7 +8,7 @@ and an international PCT application has been officially filed.
 Any unauthorized use, reproduction, or derivative work based on this system
 may constitute patent infringement and will be subject to legal enforcement under international intellectual property law.
 
-📄 Architecture Snapshot (v0.1)
+📄 [Architecture Snapshot (v0.1)](https://github.com/kaelitcom/kaelit-research/releases/tag/v0.1)
 
 © KAELIT. All rights reserved.
 
