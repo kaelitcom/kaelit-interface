@@ -18,3 +18,6 @@ This repository includes a simplified preview of KAELIT’s planned blockchain i
 
 **IPFS Publication Hash (Proof of Original Work):** QmXXXXX...  
 (Used to verify the original timestamp and authorship of this design.)
+
+📄 Full Interface Spec: [interface.md](./interface.md)  
+🛠 Changelog: [CHANGELOG.md](./CHANGELOG.md)
