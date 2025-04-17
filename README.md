@@ -21,3 +21,10 @@ This repository includes a simplified preview of KAELIT’s planned blockchain i
 
 📄 Full Interface Spec: [interface.md](./interface.md)  
 🛠 Changelog: [CHANGELOG.md](./CHANGELOG.md)
+
+---
+
+⚠️ **Note:**  
+`rpc_interface.py` is a simplified demonstration script.  
+It does not contain cryptographic operations, consensus mechanisms, or production-grade logic.  
+All methods are mocked and intended for interface preview only.
