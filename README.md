@@ -28,8 +28,9 @@ Core logic and cryptographic engine are not included in this repository.
 This repository includes a simplified preview of KAELIT’s planned blockchain interface.
 
 **Note:**
-- This is a **public demo only**, and does **NOT** contain core blockchain logic.
-- All cryptographic, consensus, and execution engines are intentionally excluded.
+- This repository is a public demonstration preview.  
+  It contains no production logic and is excluded from all cryptographic, consensus, and execution components covered by active patent filings.
+- All cryptographic operations, consensus logic, and validator execution flows are intentionally withheld for IP protection.
 - For full access or partnership inquiries, please visit [https://kaelit.com](https://kaelit.com)
 
 **IPFS Publication Hash (Proof of Original Work):** QmXXXXX...  
