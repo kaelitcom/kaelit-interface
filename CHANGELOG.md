@@ -19,7 +19,8 @@ All notable changes to the JSON-RPC interface will be documented in this file.
 - Rate limit policy
 
 ### Notes
-- This is an early-stage interface, subject to major changes as the protocol evolves.
+- This changelog reflects a public demonstration interface.  
+  Core cryptographic and protocol logic remain confidential and will be revised under patent protection.
 - Methods and fields may be expanded or refactored based on MVP feedback.
 
 ---
