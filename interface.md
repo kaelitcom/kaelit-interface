@@ -119,7 +119,7 @@ Triggers runtime coordination logic for gas optimization or transaction scheduli
 ```json
 {
   "jsonrpc": "2.0",
-  "method": "kaelit_rpc_triggerAiOptimizer",
+  "method": "kaelit_rpc_triggerRuntimeOptimizer",
   "params": {
     "scenario": "gas_predict",
     "data": { ... }
