@@ -112,9 +112,9 @@ Initiates ZK proof generation for a batch of transactions.
 
 ---
 
-### `kaelit_rpc_triggerAiOptimizer`
+### `kaelit_rpc_triggerRuntimeOptimizer`
 
-Triggers the AI model for gas optimization or batch reordering.
+Triggers runtime coordination logic for gas optimization or transaction scheduling.
 
 ```json
 {
@@ -194,6 +194,6 @@ Casts a vote on an existing DAO proposal.
 
 ---
 
-> This specification is a non-binding technical preview.  
+> This specification is a public technical preview.  
   All internal mechanisms remain confidential and are excluded for intellectual property protection.
 > For integration inquiries or to report issues, please open a GitHub Issue or contact the KAELIT.com
