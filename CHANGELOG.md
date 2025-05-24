@@ -11,7 +11,7 @@ All notable changes to the JSON-RPC interface will be documented in this file.
 - `kaelit_rpc_sendTransaction` method
 - `kaelit_rpc_getDagNode` method
 - `kaelit_rpc_proveZkRollupBatch` method
-- `kaelit_rpc_triggerAiOptimizer` method
+- `kaelit_rpc_runtimeOptimizerTrigger` method
 - `kaelit_rpc_submitProposal` and `kaelit_rpc_vote` for DAO interaction
 - JWT-based authentication standard
 - Version field in each method call
@@ -28,6 +28,6 @@ All notable changes to the JSON-RPC interface will be documented in this file.
 ## Future Plans
 
 - Event-based log indexing (`kaelit_rpc_getLogs`)
-- zkSync-like account abstraction support
+- zkSync-like account abstraction support + modular account abstraction (based on zk verification)
 - Multi-signature DAO voting extensions
 - RPC gateway for zk circuit profiling and benchmarking
